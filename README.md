@@ -105,6 +105,11 @@ Additional Security Considerations 2.0:  <br/>
 <br />
 
 
+### 🧑‍💻 Project members
+Bruce Weygandt, Soya Kawamura, Bennett Woolf, Gideion Prabhudas
+Cybersecurity Undergraduate @ Brigham Young University
+🔗 [LinkedIn](https://www.linkedin.com/in/bruce-weygandt)
+
 <!--
  ```diff
 - text in red
